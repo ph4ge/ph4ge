@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ph4ge
+- 👋 Hi, I’m ph4ge
 - 👀 I’m interested in mathematics, sciences, TCS, AIT, machine learning and a bunch of other fields
 
 
