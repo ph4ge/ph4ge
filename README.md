@@ -1,5 +1,6 @@
 - 👋 Hi, I’m ph4ge
 - 👀 I’m interested in mathematics, sciences, TCS, AIT, machine learning, information security and a bunch of other fields
+- Looking to catalyze science through computation
 
 
 
