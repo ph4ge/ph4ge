@@ -4,7 +4,7 @@
 
 AI/ML/DL work in progress:
 ---
-Early work to identiying hashes using LLM:
+Early work to identify hashes using LLM:
 
 https://ph4ge-hashid-srcfrontend-dev-4lhi7s.streamlit.app/
 
