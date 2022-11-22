@@ -6,7 +6,7 @@ AI/ML/DL work in progress:
 ---
 Early work to identify hashes using LLM:
 
-https://ph4ge-hashid-srcfrontend-dev-4lhi7s.streamlit.app/
+[NLPSec - Hash Identifier](https://ph4ge-hashid-srcfrontend-dev-4lhi7s.streamlit.app/)
 
 <!---
 ph4ge/ph4ge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
