@@ -4,7 +4,7 @@
 
 AI/ML/DL work in progress:
 ---
-Early work to identify hashes using LLM:
+Early work to identify hashes(currently only supports a limited subset of then) using LLM:
 
 [NLPSec - Hash Identifier](https://ph4ge-hashid-srcfrontend-dev-4lhi7s.streamlit.app/)
 
